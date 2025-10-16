@@ -1,0 +1,1 @@
+Developed an interactive Power BI dashboard for Airline Analysis, Visualizing key insights such as total revenue (6B), average ticket price(20.89K), price by travel class, airline-wise performance, flight duration trends, and route-based analysis using geographical mapping and comparative charts.
